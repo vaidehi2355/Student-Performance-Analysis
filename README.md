@@ -22,6 +22,6 @@ Perform data exploration, cleaning, analysis, and visualization on the Student P
 - Jupyter Notebook
 
 ## Files
-- student_performance_analysis.ipynb
+- student_analysis_T1.ipynb
 - student-mat.csv
 - student_cleaned.csv
